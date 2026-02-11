@@ -1,0 +1,23 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "this is about express setup and api basics",
+  "homepage": "https://github.com/Aditya-shivale121/backend_Basics#readme",
+  "bugs": {
+    "url": "https://github.com/Aditya-shivale121/backend_Basics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-shivale121/backend_Basics.git"
+  },
+  "license": "ISC",
+  "author": "Aditya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
