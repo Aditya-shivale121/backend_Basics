@@ -1,0 +1,20 @@
+.posts{
+    background-color: rgb(246, 141, 141);
+    text-align: center;
+}
+.user{
+    font-style: italic;
+
+}
+h1{
+    color: maroon;
+    text-align: center;
+}
+#anchor{
+    text-align: center;
+    
+}
+#create{
+    text-decoration: none;
+    text-transform: capitalize;
+}
